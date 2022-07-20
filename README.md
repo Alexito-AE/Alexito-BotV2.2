@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Alexito-AE"><img title="Creador" src="https://img.shields.io/badge/Creador-Alexito-04B486.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Alexito-AE"><img title="Creador" src="https://img.shields.io/badge/Creador-Alessandro-04B486.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
