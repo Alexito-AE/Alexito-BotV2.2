@@ -1,59 +1,1 @@
-# **〘ALEXITO-BOTV2.2〙**
-
-## Bot en construcción 
-
-<p align="center">
-
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
-
-</p>
-
-<p align="center">
-
-<a href="#"><img title="ALEXITO-BOTV2.2" src="https://img.shields.io/badge/ALEXITO-BOTV2.2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphabot-Md?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphabot-Md?color=red&style=flat-square"></a>
-
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
-
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-Md?style=flat-square&color=green"></a>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
-
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
-
-</p>
-
-</div>
+<p align="center"><img src="https://github.com/Alexito-AE/Alexito-BotV2.2/blob/29df56a314d8fb1f1a4176b5644cedfc78e5363f/REPOSITORIO/alexito.imagen.jpg" alt="ALEXITO BOT" width="100"/></p><p align="center"><a href="#"><img title="ALEXITO BOT V2.2" src="https://img.shields.io/badge/ALEXITO BOT V2.2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a></p><p align="center"><a href="https://github.com/Alexito-AE"><img title="Creador" src="https://img.shields.io/badge/Creador-Alexito-04B486.svg?style=for-the-badge&logo=github"></a></p><p align="center"><a href="https://github.com/Alexito-AE/Alexito-BotV2.2"><img title="Bot En Linea" src="https://img.shields.io/badge/Linea-Off-red.svg?style=for-the-badge&logo=WhatsApp"></a></p><p align="center"><a href="https://github.com/Alexito-AE/followers"><img title="Seguidores"src="https://img.shields.io/github/followers/Alexito-AE?label=Seguidores&color=blue&style=flat-square"></a><a href="https://github.com/Alexito-AE/Alexito-BotV2/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/Alexito-AE/Alexito-BotV2?label=Estrellas&color=blue&style=flat-square"></a><a href="https://github.com/Alexito-AE/Alexito-BotV2/network/members"><img title="tenedores" src="https://img.shields.io/github/forks/Alexito-AE/Alexito-BotV2?label=Tenedores&color=red&style=flat-square"></a><a href="https://github.com/Alexito-AE/Alexito-BotV2/watchers"><img title="Mirando" src="https://img.shields.io/github/watchers/Alexito-AE/Alexito-BotV2?label=Mirando&color=blue&style=flat-square"></a><a href="https://github.com/Alexito-AE/Alexito-BotV2"><img title="Fuente abierta" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a><a href="https://github.com/Alexito-AE/Alexito-BotV2"><img title="Tamaño" src="https://img.shields.io/github/repo-size/Alexito-AE/Alexito-BotV2?style=flat-square&color=green"></a><a href="https://github.com/Alexito-AE/Alexito-BotV2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Estado_Mantenimiento%3F-si-green.svg"></a>&nbsp;&nbsp;</p><p align="center"><a href="https://link/paypal"><img title="Doname para unos Cuates" src="https://img.shields.io/badge/Regalame_para_un_cuates-blue.svg?style=for-the-badge&logo=PayPal"></a></p></div>
