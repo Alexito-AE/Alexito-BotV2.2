@@ -18,17 +18,29 @@
 
 <p align="center">
 <a href="https://github.com/Alexito-AE/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/Alexito-AE?label=Seguidores&color=blue&style=flat-square"></a>
+</p>
 
+<p align="center">
 <a href="https://github.com/Alexito-AE/Alexito-BotV2/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/Alexito-AE/Alexito-BotV2?label=Estrellas&color=blue&style=flat-square"></a>
+</p>
 
+<p align="center">
 <a href="https://github.com/Alexito-AE/Alexito-BotV2/network/members"><img title="tenedores" src="https://img.shields.io/github/forks/Alexito-AE/Alexito-BotV2?label=Tenedores&color=red&style=flat-square"></a>
+</p>
 
+<p align="center">
 <a href="https://github.com/Alexito-AE/Alexito-BotV2/watchers"><img title="Mirando" src="https://img.shields.io/github/watchers/Alexito-AE/Alexito-BotV2?label=Mirando&color=blue&style=flat-square"></a>
+</p>
 
+<p align="center">
 <a href="https://github.com/Alexito-AE/Alexito-BotV2"><img title="Fuente abierta" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+</p>
 
+<p align="center">
 <a href="https://github.com/Alexito-AE/Alexito-BotV2"><img title="Tamaño" src="https://img.shields.io/github/repo-size/Alexito-AE/Alexito-BotV2?style=flat-square&color=green"></a>
+</p>
 
+<p align="center">
 <a href="https://github.com/Alexito-AE/Alexito-BotV2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Estado_Mantenimiento%3F-si-green.svg"></a>&nbsp;&nbsp;
 </p>
 
